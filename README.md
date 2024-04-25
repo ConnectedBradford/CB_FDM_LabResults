@@ -9,10 +9,9 @@ This is the Connected Bradford Lab Results GitHub page where you can find a summ
 As a standard all our research datasets are stored in a Flexible Data Model (FDM) this is loosely based on the OHDSI standards and includes a person and onbservation period table that are in OHDSI standards .Click [here](https://www.ohdsi.org/data-standardization/) for details if the OHDSI CDM Model. 
 
 
+# Connected Bradford Lab Results - CB_FDM_LabResults
 
-# Connected Bradford Lab Results
-
-Contains the scripts and documentation for Lab Results
+Contains the scripts and documentation for Lab Results from  Bradford Royal Infiormary 
 It contains  8691 patients. The dataset has been fully anonymised, but can link to other FDM's.
 
 Connected Bradford LabResults build date: 2024-04-23		, contains data up to : 2024-04-17
